@@ -1,0 +1,62 @@
+.btn-start {position: relative;
+    height: 70px;
+    
+}
+
+.btn-start__container {
+  width: 210px;
+  height: 65px;
+  /* position: relative; */
+  position: absolute;
+  margin-left: -15px;
+  margin-top: -15px;
+}
+
+.btn-start__shine {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  background-image: url('./../../images/btnCorners.png');
+  z-index: 2;
+}
+
+.btn-start__btn {
+  position: absolute;
+  top: 15px;
+  left: 15px;
+  background-color: transparent;
+  max-width: 180px;
+  height: 35px;
+  width: 100%;
+  font-family: 'Museo';
+  font-size: 14px;
+  font-style: normal;
+  color: #fff;
+  font-weight: 100;
+  line-height: 1em;
+
+  border: 1px solid transparent;
+  border-image: linear-gradient(
+    -159deg,
+    #263e66 0%,
+    #09213d 36%,
+    #111f2d 63%,
+    #23599c 100%
+  );
+  border-image-slice: 1%;
+}
+
+.btn-start__line {
+  background-image: url('./../../images/line.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+  max-width: 406px;
+  width: 100%;
+  height: 58px;
+  position: absolute;
+  left: 180px;
+  top: 20px;
+  mask-image: linear-gradient(to left, rgba(0,0,0,1) 40%, rgba(0,0,0,0.05) 90%);
+}

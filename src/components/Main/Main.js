@@ -1,4 +1,4 @@
-import BlockContainer from '../BlockContainer/BlockContainer';
+import Content from '../Content/Content';
 import Header from '../Header/Header';
 import './Main.css';
 
@@ -6,7 +6,7 @@ function Main() {
   return (
     <div className="main">
       <Header />
-      <BlockContainer />
+      <Content />
     </div>
   );
 }
