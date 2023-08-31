@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/test_sagirov/static/css/main.6fa3af7c.css",
-    "main.js": "/test_sagirov/static/js/main.b39dbea2.js",
+    "main.css": "/test_sagirov/static/css/main.10f65c7b.css",
+    "main.js": "/test_sagirov/static/js/main.4830aec6.js",
     "static/js/787.fd6d1d01.chunk.js": "/test_sagirov/static/js/787.fd6d1d01.chunk.js",
     "static/media/bg.png": "/test_sagirov/static/media/bg.e72ba05e2c510818f534.png",
     "static/media/MuseoSansCyrl-500.woff": "/test_sagirov/static/media/MuseoSansCyrl-500.b0bd8398f5ef88ecf252.woff",
@@ -9,12 +9,12 @@
     "static/media/MuseoSansCyrl-300.woff": "/test_sagirov/static/media/MuseoSansCyrl-300.009af5051e58a1cf5c8c.woff",
     "static/media/MuseoSansCyrl-100.woff": "/test_sagirov/static/media/MuseoSansCyrl-100.af0499741b08a1533134.woff",
     "index.html": "/test_sagirov/index.html",
-    "main.6fa3af7c.css.map": "/test_sagirov/static/css/main.6fa3af7c.css.map",
-    "main.b39dbea2.js.map": "/test_sagirov/static/js/main.b39dbea2.js.map",
+    "main.10f65c7b.css.map": "/test_sagirov/static/css/main.10f65c7b.css.map",
+    "main.4830aec6.js.map": "/test_sagirov/static/js/main.4830aec6.js.map",
     "787.fd6d1d01.chunk.js.map": "/test_sagirov/static/js/787.fd6d1d01.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6fa3af7c.css",
-    "static/js/main.b39dbea2.js"
+    "static/css/main.10f65c7b.css",
+    "static/js/main.4830aec6.js"
   ]
 }
